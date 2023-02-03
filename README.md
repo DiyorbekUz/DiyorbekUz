@@ -2,7 +2,7 @@
 #### I am Node.Js Developer
 ![I am Node.Js Developer](https://media-exp2.licdn.com/dms/image/C4D16AQHMrwFfHiOlyA/profile-displaybackgroundimage-shrink_350_1400/0/1650543345120?e=1662595200&v=beta&t=CNTy6aBPSBGj3tVCVKFItTISe_a2lEjT0MEqzyqiSr4)
 
-I am 17 y.o Node.Js developer, I live in Tashkent, I'm also designer and video editor
+I am 18 y.o Node.Js developer, I live in Tashkent, I'm also designer and video editor
 
 Skills: Express.Js / Node.Js / JS / HTML / CSS / Python / C / PHP 
 
