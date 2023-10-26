@@ -145,7 +145,7 @@
 <!-- | Content Cell         | Content Cell                                | link | link | -->
   
 </details>
-  -->
+
 
 <!--
 **alexandresanlim/alexandresanlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
